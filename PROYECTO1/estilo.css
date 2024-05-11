@@ -1,0 +1,22 @@
+@font-face{
+    src: url(proyecto1/Champignon.otf);
+    font-family:Champingnon;
+}
+
+@font-face{
+    src: url(proyecto1/SpecialElite-Regular.ttf);
+    font-family: specialelite;
+}
+   
+p{
+    font-style: italic; /*esto aplica cursiva*/
+    /*font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family: specialelite;
+    font-size: 25px;
+
+}
+
+h2{
+    font-family: Champingnon;
+    font-size: 2em; /*em es unidad relativa*/
+}

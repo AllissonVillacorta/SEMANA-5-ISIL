@@ -1,0 +1,19 @@
+#titulo{
+    text-align: center;
+    font-size: 50px;
+    color: #e4ef1c;
+    .vina-sans-regular {
+        font-family: "Vina Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+}
+
+p{
+    font-style: italic;
+    color: #0000ff;
+}
+
+.subtitulo{
+    color: rgb(219, 53, 142);
+}
